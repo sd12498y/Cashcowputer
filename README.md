@@ -4,8 +4,8 @@
 
 ## Dataset
 1. Sentiment140
-2. Stocknet [https://github.com/yumoxu/stocknet-dataset]
-3. Reddit News headlines [https://www.kaggle.com/aaron7sun/stocknews]
+2. [Stocknet] (https://github.com/yumoxu/stocknet-dataset)
+3. [Reddit News headlines] (https://www.kaggle.com/aaron7sun/stocknews)
 
 ## Scope
 * Time range: 2014-2016
