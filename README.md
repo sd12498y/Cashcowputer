@@ -9,11 +9,3 @@
 
 ## Scope
 * Time range: 2014-2016
-* Selected stock:
-1. Apple
-2. Google
-3. Amazon
-4. Microsoft
-5. AT&T
-6. Intel
-7. JP Morgan
